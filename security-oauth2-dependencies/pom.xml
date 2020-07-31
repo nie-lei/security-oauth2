@@ -18,8 +18,8 @@
     <url>http://www.funtl.com</url>
 
     <properties>
-        <spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
-        <!--<spring-cloud.version>Hoxton.SR6</spring-cloud.version>-->
+        <!--<spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>-->
+        <spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
         <!--<spring-cloud.version>Greenwich.SR5</spring-cloud.version>-->
     </properties>
 
