@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/security-oauth2.iml" filepath="$PROJECT_DIR$/security-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-oauth2-dependencies/security-oauth2-dependencies.iml" filepath="$PROJECT_DIR$/security-oauth2-dependencies/security-oauth2-dependencies.iml" />
+    </modules>
+  </component>
+</project>
